@@ -1,0 +1,40 @@
+.modal {
+    background-color: #c4edd5ae;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 600px;
+    height: auto;
+    margin-bottom: 50px;
+    margin-left: 30px;
+    text-align: center;
+ 
+    
+  }
+  .modal-container{
+    display: flex;
+    gap: 0px;
+    font-size: 15px;
+  }
+  
+  .modal h2 {
+    margin-top: 0;
+  }
+  
+  .modal label {
+    margin-left: 5px;
+    display: flex;
+    margin: 0;
+  }
+  
+ 
+  
+  .modal button:hover {
+    background-color: #7ee28a;
+  }
+  .radio-option{
+    height: 30px;
+    width: 800px;
+    color: #7ee28a;
+  }
+ 

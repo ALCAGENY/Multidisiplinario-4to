@@ -1,0 +1,19 @@
+label {
+    display: flex;
+    margin-bottom: 9px;
+    margin-top: 10px;
+    color: rgb(30, 3, 3);  
+    margin-left: 45px;
+    font-family: cursive;
+    width: auto;
+}
+
+Input {
+    width: 200px; 
+    background-color: rgb(207, 239, 239);
+    margin-bottom: 30px;
+    height: 20px;
+    border: none;
+    border-bottom: 1px solid #000;  
+    outline: none; 
+}

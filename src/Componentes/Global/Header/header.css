@@ -1,0 +1,16 @@
+ 
+    h1  {
+        font-family: 'Georgia', serif;
+        text-align: center;
+        width: auto;
+        animation: slideInFromLeft 2s ease-out 0s 1; 
+    }
+
+    @keyframes slideInFromLeft {
+        0% {
+            transform: translateX(-100%);
+        }
+        100% {
+            transform: translateX(0);
+        }
+    }
